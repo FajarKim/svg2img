@@ -1,0 +1,5 @@
+test/
+.vscode/
+circle.yml
+test.js
+*.png
