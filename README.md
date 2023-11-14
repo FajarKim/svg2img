@@ -5,7 +5,7 @@ A versatile Node.js library for converting SVG images to various formats, includ
 ## Install
 
 ```bash
-npm i @fajarkim/svg2img@next
+npm i @fajarkim/svg2img
 ```
 
 ## Usage
