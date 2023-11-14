@@ -1,6 +1,6 @@
 {
   "name": "@fajarkim/svg2img",
-  "version": "0.0.1-beta.0",
+  "version": "0.0.2",
   "description": "A versatile Node.js library for converting SVG images to various formats, including PNG and JPEG, with customizable options and rendering capabilities.",
   "license": "MIT",
   "repository": {
