@@ -18,12 +18,12 @@
   "devDependencies": {
     "expect.js": "^0.3.1",
     "mocha": "^10.2.0",
-    "node-base64-image": "^2.0.5"
+    "node-base64-image": "^2.0.6"
   },
   "dependencies": {
     "@resvg/resvg-js": "^2.6.0",
-    "atob": "^2.0.0",
-    "btoa": "^1.1.2",
+    "atob": "^2.1.2",
+    "btoa": "^1.2.1",
     "jimp-compact": "^0.16.1-2"
   },
   "engines": {
